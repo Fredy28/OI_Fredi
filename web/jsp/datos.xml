@@ -1,0 +1,10 @@
+<personas>
+    <persona>
+        <nombre>Juan</nombre>
+        <edad>30</edad>
+    </persona>
+    <persona>
+        <nombre>Ana</nombre>
+        <edad>25</edad>
+    </persona>
+</personas>
